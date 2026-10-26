@@ -1,25 +1,32 @@
 # Hi, I'm Sagor Chandra Paul 👋
 
-I'm an aspiring software engineer interested in building useful software, understanding how systems work, and learning how to make applications reliable and secure.
+### Aspiring Software Engineer | Full-Stack Development | DevOps | Cybersecurity | AI/ML
 
-My main areas of interest are **Software Engineering, DevOps, Cybersecurity, and AI/Machine Learning**.
+I’m an aspiring software engineer who enjoys building practical applications, strengthening my problem-solving skills, and learning how to make software reliable and secure.
 
-- 💻 Building projects and strengthening my programming fundamentals
+My main interests are **Software Engineering, DevOps, Cybersecurity, and AI/Machine Learning**. I’m building a strong foundation through hands-on projects and continuous learning.
+
+- 💻 Developing projects and improving my programming fundamentals
 - 🧩 Practising Data Structures and Algorithms with C++
 - 🌐 Exploring full-stack development with React, Node.js, Express, and databases
-- 🔐 Learning secure authentication and application security
-- ⚙️ Exploring DevOps practices, automation, and reliable deployments
-- 🤖 Interested in AI/ML and learning how intelligent systems are built
+- 🐳 Learning containerization with Docker
+- ☸️ Learning Kubernetes fundamentals and container orchestration
+- 🔐 Studying authentication and application security
+- ⚙️ Exploring CI/CD, automation, and reliable deployments
+- 🤖 Building foundational knowledge of AI/ML
 
 ## 🎯 Current Focus
 
 - Writing clean, readable, and maintainable code
 - Improving problem-solving skills through DSA
-- Understanding backend APIs, databases, authentication, and security
-- Learning CI/CD, containers, cloud fundamentals, and infrastructure automation
-- Building a foundation in AI/ML, data handling, and model development
+- Building and understanding backend APIs, databases, and authentication
+- Learning Docker, Kubernetes basics, CI/CD, and deployment workflows
+- Strengthening my knowledge of application security
+- Exploring AI/ML concepts and practical use cases
 
 ## 🛠️ Technologies & Tools
+
+*These are technologies I use or am learning. Docker and Kubernetes are currently at the basics/fundamentals level.*
 
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -32,13 +39,15 @@ My main areas of interest are **Software Engineering, DevOps, Cybersecurity, and
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases & Tools
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-*I am actively learning and improving these skills. My interests in DevOps and AI/ML are ongoing learning goals, not claims of professional expertise.*
 
 ## 🚀 Featured Projects
 
@@ -67,11 +76,11 @@ A repository for practising React and other programming concepts.
 
 **Focus:** Learning through small exercises and projects.
 
-## 🧭 What I'm Working Toward
+## 🧭 Career Goal
 
-I want to grow into an engineer who can build software end to end: design and implement applications, automate their delivery, protect them against common security risks, and eventually use AI/ML where it solves real problems.
+I’m working toward becoming a well-rounded software engineer who can build useful applications, understand deployment and infrastructure, apply secure development practices, and explore AI/ML solutions when they are useful.
 
-I value consistent learning, practical projects, readable code, and understanding the reasons behind technical decisions.
+I believe in learning by building, writing understandable code, and steadily improving through feedback and practice.
 
 ## 🤝 Let's Connect
 
@@ -80,4 +89,4 @@ I value consistent learning, practical projects, readable code, and understandin
 
 ---
 
-⭐ *Thanks for visiting my profile. I'm always learning, building, and improving one step at a time.*
+⭐ *Thanks for visiting my profile. I'm learning, building, and improving step by step.*
