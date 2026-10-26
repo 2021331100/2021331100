@@ -87,6 +87,7 @@ I believe in learning by building, writing understandable code, and steadily imp
 ## 🤝 Let's Connect
 
 - GitHub: [@2021331100](https://github.com/2021331100)
+- LinkedIn: [Sagor Paul](https://www.linkedin.com/in/sagorpaul100)
 - Explore my repositories to see what I'm building and learning.
 
 ---
